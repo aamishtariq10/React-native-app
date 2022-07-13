@@ -8,12 +8,12 @@ npm install -g expo-cli
 
 // install node modules 
 npm install 
-// or 
+# or 
 yarn install
 
 // start project 
 npm start 
-// or
+# or 
 yarn start 
 
 # GOOD LUCK :)
