@@ -5,6 +5,7 @@
 # install expo cli in your device 
 
 npm install -g expo-cli
+yarn add expo-cli
 
 # install node modules 
 npm install  
